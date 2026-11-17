@@ -1,0 +1,25 @@
+{
+  "out": [
+    {
+      "width": 1440,
+      "languages": true,
+      "channels": true,
+      "opened": [
+        "https://play.google.com/store/apps/details?id=com.bangbo.app"
+      ],
+      "cookiePersistence": true,
+      "errors": []
+    },
+    {
+      "width": 390,
+      "languages": true,
+      "channels": true,
+      "opened": [
+        "https://play.google.com/store/apps/details?id=com.bangbo.app"
+      ],
+      "cookiePersistence": true,
+      "errors": []
+    }
+  ],
+  "offline": true
+}

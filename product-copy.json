@@ -1,0 +1,438 @@
+{
+  "en": {
+    "title": "Read.<br><em>Find your joy.</em>",
+    "description": "Discover romance and web novels on Bangbo. Meet new authors, follow memorable characters and get lost in a world of stories.",
+    "scenes": [
+      [
+        "A world of web novels",
+        "Explore a varied collection of web novels, curated for fiction lovers. Let a new story carry you into a world of imagination."
+      ],
+      [
+        "Romance, your way",
+        "From forbidden love to whirlwind romance and slow-burning connections, discover stories for your next reading moment."
+      ],
+      [
+        "New adventures",
+        "Step into thrilling adventures and enchanting worlds. Follow a story beyond the everyday, one page at a time."
+      ],
+      [
+        "Discover new authors",
+        "Find new voices and explore their stories. Discover authors whose imagination gives you another reason to read."
+      ],
+      [
+        "Follow the characters",
+        "Meet memorable characters. Follow their journeys through love, desire and destiny."
+      ]
+    ],
+    "nav": [
+      "Web novels",
+      "Romance",
+      "Adventure",
+      "Authors",
+      "Characters"
+    ],
+    "aboutTitle": "A new story.<br>A little more joy.",
+    "aboutHeading": "Made for<br>fiction lovers.",
+    "aboutIntro": "Bangbo is a novel reader for fiction enthusiasts, with romance, web novels and imaginative stories to explore.",
+    "paragraphs": [
+      "Bangbo offers a curated collection of web novels for fiction enthusiasts. Explore romance and adventure, discover new authors and follow your favorite characters.",
+      "Our team values cooperation, user needs and innovation. Bangbo is operated by Woola Singapore Pte. Ltd."
+    ],
+    "values": [
+      [
+        "Open cooperation",
+        "Explore new ideas and technology through cooperation."
+      ],
+      [
+        "User orientation",
+        "Focus on user needs and improve the reading experience."
+      ],
+      [
+        "Innovation-driven",
+        "Keep learning and exploring new possibilities."
+      ]
+    ],
+    "helpTitle": "A little help.<br>Back to your story.",
+    "helpIntro": "Find guidance on downloading Bangbo, account questions, purchases and privacy.",
+    "supportText": "Find guidance on downloads, account access and purchase questions.",
+    "businessText": "Use the preview form for collaboration or general inquiries. To contact support, use the official email.",
+    "pending": "This destination has not been verified. Please use the confirmed Google Play listing or contact support.",
+    "recharge": "A Bangbo web recharge URL has not been verified. No payment will be initiated.",
+    "policyPending": "The official text for this policy has not been verified. This entry is retained for review; contact the official support email with questions.",
+    "faqs": [
+      [
+        "account",
+        "Where can I ask about my account?",
+        "Contact woola2024@gmail.com with a description of your issue and device. Include your account identifier if available. Never send passwords or verification codes."
+      ],
+      [
+        "account",
+        "Can I request deletion of my data?",
+        "The official privacy policy describes rights to access, correct and delete personal data. Contact support for the process applicable to your request."
+      ],
+      [
+        "account",
+        "Which sign-in options are available?",
+        "Check the options shown in the current Bangbo app. This website does not provide account sign-in or recovery. Contact support if you need help."
+      ],
+      [
+        "payment",
+        "Is web recharge connected?",
+        "No verified web recharge destination is configured in this review. Use only the official options available in the app."
+      ],
+      [
+        "payment",
+        "Where can I ask about a purchase?",
+        "Keep the receipt and transaction reference and contact official support. Hide sensitive payment details. This review does not process payments or refunds."
+      ],
+      [
+        "safety",
+        "Where can I read the official privacy policy?",
+        "Open Privacy Policy in Safety & rules. The public English text is preserved with a link to its official source."
+      ],
+      [
+        "safety",
+        "What age information should I check?",
+        "Google Play rates the app Teen; the published privacy policy states the service is not for users under 18. These sources differ. Read the applicable official terms before using the app."
+      ],
+      [
+        "download",
+        "Where can I download Bangbo?",
+        "The Google Play button opens Bangbo Read&Joy by WoolaTeam, package com.bangbo.app. Other download channels remain unverified."
+      ],
+      [
+        "download",
+        "How do I change the language?",
+        "Use the language selector in the navigation. App language options are managed separately."
+      ]
+    ],
+    "downloadText": "Read & Joy. Discover Bangbo."
+  },
+  "zh": {
+    "title": "翻开故事，<br><em>读出快乐。</em>",
+    "description": "在 Bangbo 探索浪漫故事与网络小说。发现新作者，跟随难忘的角色，走进充满想象力的故事世界。",
+    "scenes": [
+      [
+        "走进网络小说",
+        "探索为小说爱好者精选的网络小说，让一个新的故事带你进入充满想象力的世界。"
+      ],
+      [
+        "发现心动故事",
+        "从禁忌之恋、浪漫邂逅到细水长流的感情，在多样的爱情故事中找到下一段阅读时光。"
+      ],
+      [
+        "翻开冒险篇章",
+        "踏上惊险的旅程，探索奇妙的世界。跟随故事的脚步，在一页页文字中发现日常之外的精彩。"
+      ],
+      [
+        "发现新的作者",
+        "遇见新的文字与声音，探索不同作者笔下的故事，让想象力为下一次阅读带来灵感。"
+      ],
+      [
+        "跟随喜爱的角色",
+        "认识难忘的角色，跟随他们经历爱情与命运。"
+      ]
+    ],
+    "nav": [
+      "网络小说",
+      "浪漫故事",
+      "冒险篇章",
+      "发现作者",
+      "故事角色"
+    ],
+    "aboutTitle": "新的故事，<br>多一点快乐。",
+    "aboutHeading": "为小说爱好者<br>打开故事世界。",
+    "aboutIntro": "Bangbo 是面向小说爱好者的阅读应用，提供浪漫故事与网络小说，带你探索充满想象力的世界。",
+    "paragraphs": [
+      "Bangbo 为小说爱好者提供精选的网络小说。探索爱情与冒险，发现新作者，跟随喜爱的故事角色。",
+      "原官网介绍了团队对开放合作、用户需求与持续创新的重视。Bangbo 由 Woola Singapore Pte. Ltd. 运营。"
+    ],
+    "values": [
+      [
+        "开放合作",
+        "通过合作探索新想法与技术应用。"
+      ],
+      [
+        "关注用户",
+        "关注用户需求，持续改进阅读体验。"
+      ],
+      [
+        "持续创新",
+        "不断学习，探索新的可能。"
+      ]
+    ],
+    "helpTitle": "找到帮助，<br>继续阅读。",
+    "helpIntro": "查看下载、账号、购买与隐私问题。",
+    "supportText": "在帮助中心查看下载、账号和购买相关问题。",
+    "businessText": "合作或其他问题，请联系官方邮箱。",
+    "pending": "此渠道目的链接尚未核实，请使用已确认的 Google Play 页面，或联系官方支持。",
+    "recharge": "Bangbo 网页充值地址尚未核实，本次操作不会发起支付。",
+    "policyPending": "尚未核实本项独立正式政策正文。此入口保留供评审；如有疑问，请联系官方支持邮箱。",
+    "faqs": [
+      [
+        "account",
+        "账号问题可以联系谁？",
+        "请联系 woola2024@gmail.com，说明问题和设备信息；如有账号标识可一并提供。不要发送密码或验证码。"
+      ],
+      [
+        "account",
+        "可以申请删除个人数据吗？",
+        "官方隐私政策说明了访问、更正及删除个人数据的权利。请联系官方支持确认适用于你的处理流程。"
+      ],
+      [
+        "account",
+        "有哪些登录方式？",
+        "请以当前 Bangbo 应用显示的选项为准。此网站不提供登录或账号恢复服务；需要帮助时请联系支持。"
+      ],
+      [
+        "payment",
+        "网页充值接通了吗？",
+        "本评审版没有配置已核实的网页充值地址。请仅使用应用内提供的官方选项。"
+      ],
+      [
+        "payment",
+        "购买问题如何咨询？",
+        "保留收据和交易编号，隐藏敏感付款信息后联系官方支持。本评审版不处理支付或退款。"
+      ],
+      [
+        "safety",
+        "在哪里查看正式隐私政策？",
+        "通过安全与政策中的隐私政策入口查看，页面保留公开英文正文，并附官方来源链接。"
+      ],
+      [
+        "safety",
+        "使用前应核对哪些年龄信息？",
+        "Google Play 的内容评级为青少年，公开隐私政策则说明服务不面向未满 18 岁用户。两处口径存在差异，使用前请阅读适用的正式条款。"
+      ],
+      [
+        "download",
+        "在哪里下载 Bangbo？",
+        "Google Play 按钮指向 WoolaTeam 的 Bangbo Read&Joy，包名 com.bangbo.app。其他下载渠道暂未核实。"
+      ],
+      [
+        "download",
+        "如何切换网站语言？",
+        "使用导航中的语言选择器。应用本身的语言选项需在应用内另行查看。"
+      ]
+    ],
+    "downloadText": "打开 Bangbo，读出快乐。"
+  },
+  "hi": {
+    "title": "पढ़ें।<br><em>खुशी पाएँ।</em>",
+    "description": "Bangbo पर रोमांस और वेब उपन्यास खोजें। नए लेखक और यादगार किरदारों की कहानियाँ पढ़ें।",
+    "scenes": [
+      [
+        "वेब उपन्यास खोजें",
+        "कथा प्रेमियों के लिए चुने गए वेब उपन्यास पढ़ें। एक नई कहानी के साथ कल्पना की दुनिया में जाएँ।"
+      ],
+      [
+        "प्यार की कहानियाँ",
+        "वर्जित प्रेम से लेकर धीरे बढ़ते रिश्तों तक, रोमांस की अलग-अलग कहानियाँ खोजें।"
+      ],
+      [
+        "रोमांच की दुनिया",
+        "रोमांचक यात्राओं और कल्पना की दुनिया में जाएँ। हर पन्ने के साथ नई कहानी जानें।"
+      ],
+      [
+        "नए लेखक खोजें",
+        "नई आवाज़ें और उनके लिखे उपन्यास खोजें। लेखकों की कल्पना के साथ अपनी अगली कहानी पाएँ।"
+      ],
+      [
+        "किरदारों का सफ़र",
+        "यादगार किरदारों के प्यार और तकदीर के सफ़र को पढ़ें। उन कहानियों में खो जाएँ जो याद रहती हैं।"
+      ]
+    ],
+    "nav": [
+      "उपन्यास",
+      "रोमांस",
+      "रोमांच",
+      "लेखक",
+      "किरदार"
+    ],
+    "aboutTitle": "नई कहानी।<br>थोड़ी और खुशी।",
+    "aboutHeading": "कथा प्रेमियों<br>के लिए।",
+    "aboutIntro": "Bangbo कथा प्रेमियों के लिए रोमांस और वेब उपन्यास पढ़ने का ऐप है।",
+    "paragraphs": [
+      "Bangbo पर चुने हुए वेब उपन्यास और रोमांस पढ़ें। नए लेखक और पसंदीदा किरदार खोजें।",
+      "हम सहयोग और नवाचार पर ध्यान देते हैं। संचालक Woola Singapore Pte. Ltd. है।"
+    ],
+    "values": [
+      [
+        "खुला सहयोग",
+        "सहयोग से नए विचार और तकनीक खोजें।"
+      ],
+      [
+        "उपयोगकर्ता पहले",
+        "ज़रूरतों और पढ़ने के अनुभव पर ध्यान दें।"
+      ],
+      [
+        "नवाचार",
+        "सीखते रहें और नई संभावनाएँ खोजें।"
+      ]
+    ],
+    "helpTitle": "मदद पाएँ।<br>फिर पढ़ें।",
+    "helpIntro": "डाउनलोड, खाते, खरीद और गोपनीयता के सवालों की जानकारी पाएँ।",
+    "supportText": "डाउनलोड, खाते और खरीद के बारे में मदद पाएँ।",
+    "businessText": "पूछताछ फ़ॉर्म का प्रीव्यू देखें। सहायता के लिए आधिकारिक ईमेल इस्तेमाल करें।",
+    "pending": "इस लिंक की पुष्टि बाकी है। सत्यापित Google Play पेज या सहायता ईमेल इस्तेमाल करें।",
+    "recharge": "वेब रिचार्ज URL सत्यापित नहीं है। कोई भुगतान नहीं होगा।",
+    "policyPending": "इस नीति के आधिकारिक पाठ की पुष्टि बाकी है। सवालों के लिए आधिकारिक सहायता ईमेल से संपर्क करें।",
+    "faqs": [
+      [
+        "account",
+        "खाते के लिए मदद कहाँ मिलेगी?",
+        "woola2024@gmail.com पर समस्या और डिवाइस की जानकारी भेजें। पासवर्ड या कोड न भेजें।"
+      ],
+      [
+        "account",
+        "डेटा मिटाने का अनुरोध कैसे करें?",
+        "आधिकारिक गोपनीयता नीति में व्यक्तिगत डेटा के अधिकार बताए गए हैं। प्रक्रिया के लिए सहायता से संपर्क करें।"
+      ],
+      [
+        "account",
+        "साइन इन के कौन से तरीके हैं?",
+        "वर्तमान Bangbo ऐप में उपलब्ध विकल्प देखें। यह वेबसाइट साइन इन या खाता रिकवरी नहीं करती।"
+      ],
+      [
+        "payment",
+        "क्या वेब रिचार्ज जुड़ा है?",
+        "इस प्रीव्यू में सत्यापित वेब रिचार्ज लिंक नहीं है। ऐप के आधिकारिक विकल्प देखें।"
+      ],
+      [
+        "payment",
+        "खरीद की मदद कैसे पाएँ?",
+        "रसीद और लेनदेन संदर्भ के साथ सहायता से संपर्क करें। संवेदनशील भुगतान विवरण छिपाएँ।"
+      ],
+      [
+        "safety",
+        "गोपनीयता नीति कहाँ है?",
+        "सुरक्षा पेज से आधिकारिक अंग्रेज़ी गोपनीयता नीति और उसका स्रोत खोलें।"
+      ],
+      [
+        "safety",
+        "उम्र की जानकारी क्या है?",
+        "Google Play पर Teen रेटिंग है; गोपनीयता नीति 18 से कम उम्र के लिए सेवा नहीं बताती। अंतर है; लागू शर्तें पढ़ें।"
+      ],
+      [
+        "download",
+        "Bangbo कहाँ डाउनलोड करें?",
+        "Google Play पर WoolaTeam का Bangbo Read&Joy, पैकेज com.bangbo.app खोलें। अन्य लिंक सत्यापित नहीं हैं।"
+      ],
+      [
+        "download",
+        "वेबसाइट भाषा कैसे बदलें?",
+        "नेविगेशन में भाषा चुनें। ऐप की भाषा अलग से प्रबंधित होती है।"
+      ]
+    ],
+    "downloadText": "Bangbo पर पढ़ें और खुश रहें।"
+  },
+  "id": {
+    "title": "Baca.<br><em>Raih sukacita.</em>",
+    "description": "Jelajahi romansa dan novel web di Bangbo. Temukan penulis baru dan ikuti kisah tokoh yang berkesan.",
+    "scenes": [
+      [
+        "Dunia novel web",
+        "Jelajahi koleksi novel web pilihan untuk pencinta fiksi. Masuki dunia imajinasi lewat cerita baru."
+      ],
+      [
+        "Romansa pilihanmu",
+        "Dari cinta terlarang hingga hubungan yang tumbuh perlahan, temukan kisah untuk waktu membacamu."
+      ],
+      [
+        "Kisah petualangan",
+        "Masuki petualangan mendebarkan dan dunia penuh imajinasi. Ikuti kisah baru, halaman demi halaman."
+      ],
+      [
+        "Temukan penulis baru",
+        "Jelajahi suara baru dan cerita mereka. Temukan penulis yang menginspirasi bacaan berikutnya."
+      ],
+      [
+        "Ikuti para tokoh",
+        "Kenali tokoh yang berkesan dan ikuti perjalanan cinta serta takdir mereka. Nikmati kisah yang membekas."
+      ]
+    ],
+    "nav": [
+      "Novel web",
+      "Romansa",
+      "Petualangan",
+      "Penulis",
+      "Tokoh"
+    ],
+    "aboutTitle": "Cerita baru.<br>Lebih banyak sukacita.",
+    "aboutHeading": "Untuk<br>pencinta fiksi.",
+    "aboutIntro": "Bangbo adalah aplikasi pembaca novel bagi pencinta fiksi, romansa dan cerita web.",
+    "paragraphs": [
+      "Bangbo menghadirkan koleksi novel web pilihan. Jelajahi romansa dan petualangan, temukan penulis baru dan ikuti tokoh favorit.",
+      "Situs resmi menjelaskan fokus tim pada kerja sama, kebutuhan pengguna dan inovasi. Bangbo dioperasikan oleh Woola Singapore Pte. Ltd."
+    ],
+    "values": [
+      [
+        "Kerja sama terbuka",
+        "Jelajahi ide dan teknologi lewat kerja sama."
+      ],
+      [
+        "Fokus pengguna",
+        "Perhatikan kebutuhan dan pengalaman membaca."
+      ],
+      [
+        "Inovasi",
+        "Terus belajar dan temukan kemungkinan baru."
+      ]
+    ],
+    "helpTitle": "Temukan bantuan.<br>Kembali membaca.",
+    "helpIntro": "Panduan unduhan, akun, pembelian dan privasi Bangbo.",
+    "supportText": "Temukan bantuan unduhan, akses akun dan pembelian.",
+    "businessText": "Tinjau formulir pertanyaan. Hubungi email resmi untuk bantuan.",
+    "pending": "Tujuan ini belum terverifikasi. Gunakan halaman Google Play terverifikasi atau hubungi dukungan.",
+    "recharge": "URL isi ulang web belum terverifikasi. Tidak ada pembayaran yang dimulai.",
+    "policyPending": "Teks resmi kebijakan ini belum terverifikasi. Entri ini tersedia untuk tinjauan; hubungi email dukungan resmi.",
+    "faqs": [
+      [
+        "account",
+        "Di mana saya meminta bantuan akun?",
+        "Hubungi woola2024@gmail.com dengan masalah dan informasi perangkat. Jangan kirim kata sandi atau kode verifikasi."
+      ],
+      [
+        "account",
+        "Bisakah saya meminta penghapusan data?",
+        "Kebijakan privasi resmi menjelaskan hak terkait data pribadi. Hubungi dukungan untuk proses yang berlaku."
+      ],
+      [
+        "account",
+        "Apa pilihan masuk yang tersedia?",
+        "Periksa pilihan pada aplikasi Bangbo saat ini. Situs ini tidak menyediakan masuk atau pemulihan akun."
+      ],
+      [
+        "payment",
+        "Apakah isi ulang web terhubung?",
+        "Belum ada URL isi ulang terverifikasi di pratinjau ini. Gunakan pilihan resmi dalam aplikasi."
+      ],
+      [
+        "payment",
+        "Bagaimana meminta bantuan pembelian?",
+        "Simpan bukti dan referensi transaksi lalu hubungi dukungan. Sembunyikan detail pembayaran sensitif."
+      ],
+      [
+        "safety",
+        "Di mana kebijakan privasi resmi?",
+        "Buka Kebijakan Privasi dari halaman keamanan untuk teks bahasa Inggris dan tautan sumber resmi."
+      ],
+      [
+        "safety",
+        "Apa informasi usia yang perlu diperiksa?",
+        "Google Play memberi peringkat Teen; kebijakan privasi menyebut layanan bukan untuk usia di bawah 18. Ada perbedaan; baca ketentuan resmi yang berlaku."
+      ],
+      [
+        "download",
+        "Di mana mengunduh Bangbo?",
+        "Buka Bangbo Read&Joy oleh WoolaTeam di Google Play, paket com.bangbo.app. Kanal lain belum terverifikasi."
+      ],
+      [
+        "download",
+        "Bagaimana mengganti bahasa situs?",
+        "Gunakan pilihan bahasa di navigasi. Bahasa aplikasi dikelola terpisah."
+      ]
+    ],
+    "downloadText": "Baca dan nikmati Bangbo."
+  }
+}

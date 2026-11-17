@@ -1,0 +1,19 @@
+{
+  "name": "bangbo-website-preview",
+  "version": "1.0.0",
+  "description": "Bangbo official-source review website aligned with the confirmed v19 layout",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "python build-aligned.py",
+    "test": "node tests/review.cjs",
+    "preview": "python -m http.server 8768 --bind 127.0.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "commonjs",
+  "devDependencies": {
+    "playwright": "^1.65.1"
+  }
+}

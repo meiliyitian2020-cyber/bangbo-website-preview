@@ -1,0 +1,15 @@
+{
+  "verified": "2026-11-17",
+  "logo": "https://www.bangboapp.com/_nuxt/logo-black2.DY_sgHBO.png",
+  "app_icon": "https://play-lh.googleusercontent.com/9Zj9KEo8pQgLg4V8gtDXj0bAiYpy2zVCmbSTR-3u5s5eVKndCqW_q6sv2W2FdpmaGzUqY5YToEAWypPi4F2YFw=s512",
+  "policies": [
+    {
+      "url": "https://www.bangboapp.com/api/contentPost?type=privacy",
+      "same": true
+    },
+    {
+      "url": "https://www.bangboapp.com/api/contentPost?type=user",
+      "same": true
+    }
+  ]
+}

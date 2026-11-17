@@ -1,0 +1,150 @@
+{
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lang": "en",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 723.59375,
+        "y": 298.578125,
+        "width": 596.390625,
+        "height": 335.46875
+      }
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lang": "zh",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 723.59375,
+        "y": 298.578125,
+        "width": 596.390625,
+        "height": 335.46875
+      }
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lang": "hi",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 723.59375,
+        "y": 298.578125,
+        "width": 596.390625,
+        "height": 335.46875
+      }
+    },
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "lang": "id",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 723.59375,
+        "y": 298.578125,
+        "width": 596.390625,
+        "height": 335.46875
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lang": "en",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 80.203125,
+        "y": 122,
+        "width": 229.59375,
+        "height": 408.171875
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lang": "zh",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 73.734375,
+        "y": 122,
+        "width": 242.53125,
+        "height": 431.171875
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lang": "hi",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 76.65625,
+        "y": 122,
+        "width": 236.6875,
+        "height": 420.78125
+      }
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "lang": "id",
+      "rectDiff": [],
+      "alignment": {
+        "sourceVersion": 19,
+        "issues": []
+      },
+      "hero": {
+        "x": 86.671875,
+        "y": 122,
+        "width": 216.65625,
+        "height": 385.171875
+      }
+    }
+  ],
+  "errors": [],
+  "network": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://bangboapp.com/",
+    "final_url": "https://bangboapp.com/",
+    "status": 200,
+    "bytes": 2323
+  },
+  {
+    "url": "https://www.bangboapp.com/",
+    "final_url": "https://www.bangboapp.com/",
+    "status": 200,
+    "bytes": 2323
+  },
+  {
+    "url": "https://www.bangboapp.com/policy",
+    "final_url": "https://www.bangboapp.com/policy",
+    "status": 200,
+    "bytes": 44495
+  },
+  {
+    "url": "https://www.bangboapp.com/user-policy",
+    "final_url": "https://www.bangboapp.com/user-policy",
+    "status": 200,
+    "bytes": 82110
+  }
+]
